@@ -1,6 +1,9 @@
 ---
+layout: blog
 title: DIY Cat Enrichment
 date: 2024-03-17T19:31:20.591Z
+thumbnail: ""
+rating: 5
 post:
   - description: Creative Ways to Keep Your Kitty Stimulated
 ---

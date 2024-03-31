@@ -1,6 +1,9 @@
 ---
+layout: blog
 title: Understanding Cat Behavior
 date: 2023-11-17T19:31:20.591Z
+thumbnail: ""
+rating: 5
 post:
   - description: Decoding Your Feline Friend
 ---

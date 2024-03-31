@@ -1,6 +1,9 @@
 ---
+layout: blog
 title: Cat Health 101
 date: 2024-03-17T19:31:20.591Z
+thumbnail: ""
+rating: 5
 post:
   - description: Tips for Keeping Your Feline Friend Happy and Healthy
 ---

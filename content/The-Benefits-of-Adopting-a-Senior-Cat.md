@@ -1,6 +1,9 @@
 ---
+layout: blog
 title: The Benefits of Adopting a Senior Cat
 date: 2023-12-17T19:31:20.591Z
+thumbnail: ""
+rating: 5
 post:
   - description: Why Older Felines Make Great Pets
 ---

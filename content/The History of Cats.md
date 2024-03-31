@@ -1,6 +1,9 @@
 ---
+layout: blog
 title: The History of Cats
 date: 2024-01-17T19:31:20.591Z
+thumbnail: ""
+rating: 5
 post:
   - description: From Ancient Guardians to Modern Companions
 ---

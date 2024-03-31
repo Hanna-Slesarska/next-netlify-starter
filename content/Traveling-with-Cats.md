@@ -1,7 +1,10 @@
 ---
+layout: blog
 title: Traveling with Cats
 date: 2023-11-17T19:31:20.591Z
 post:
+thumbnail: ""
+rating: 5
   - description: Tips for Stress-Free Adventures
 ---
 

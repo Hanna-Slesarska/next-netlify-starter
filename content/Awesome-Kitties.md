@@ -1,6 +1,9 @@
 ---
+layout: blog
 title: Awesome kitties
 date: 2019-03-17T19:31:20.591Z
+thumbnail: ""
+rating: 5
 post:
   - description: Maru is a Scottish Fold from Japan, and he loves boxes and play with yarn.
     name: Maru (まる)
