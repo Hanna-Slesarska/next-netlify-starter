@@ -2,7 +2,7 @@
 layout: blog
 title: The History of Cats
 date: 2024-01-17T19:31:20.591Z
-thumbnail: ""
+thumbnail: https://images.unsplash.com/photo-1677870991707-3d16663e0629?w=800&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTB8fGNhdHMlMjBlZ3lwdHxlbnwwfHwwfHx8MA%3D%3D
 rating: 5
 post:
   - description: From Ancient Guardians to Modern Companions
