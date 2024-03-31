@@ -2,7 +2,7 @@
 layout: blog
 title: The Benefits of Adopting a Senior Cat
 date: 2023-12-17T19:31:20.591Z
-thumbnail: ""
+thumbnail: https://images.unsplash.com/photo-1506891536236-3e07892564b7?w=800&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8N3x8Y2F0cyUyMG9sZHxlbnwwfHwwfHx8MA%3D%3D
 rating: 5
 post:
   - description: Why Older Felines Make Great Pets
