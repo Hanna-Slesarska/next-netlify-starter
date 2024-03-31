@@ -1,4 +1,11 @@
-DIY Cat Enrichment: Creative Ways to Keep Your Kitty Stimulated
+---
+title: DIY Cat Enrichment
+date: 2024-03-17T19:31:20.591Z
+post:
+  - description: Creative Ways to Keep Your Kitty Stimulated
+---
+
+
 
 Cats are natural hunters and explorers, with an innate need for mental
 and physical stimulation. Providing enrichment opportunities for your

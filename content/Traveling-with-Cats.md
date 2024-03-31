@@ -1,4 +1,9 @@
-**Traveling with Cats: Tips for Stress-Free Adventures**
+---
+title: Traveling with Cats
+date: 2023-11-17T19:31:20.591Z
+post:
+  - description: Tips for Stress-Free Adventures
+---
 
 Traveling with cats can be a rewarding experience, allowing you to
 create lasting memories and strengthen the bond with your feline

@@ -1,4 +1,10 @@
-The History of Cats: From Ancient Guardians to Modern Companions
+---
+title: The History of Cats
+date: 2024-01-17T19:31:20.591Z
+post:
+  - description: From Ancient Guardians to Modern Companions
+---
+
 
 In the realm of domestic pets, few creatures have captured the hearts
 and minds of humans quite like cats. These enigmatic creatures have a

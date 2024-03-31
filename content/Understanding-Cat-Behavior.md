@@ -1,4 +1,9 @@
-Understanding Cat Behavior: Decoding Your Feline Friend
+---
+title: Understanding Cat Behavior
+date: 2023-11-17T19:31:20.591Z
+post:
+  - description: Decoding Your Feline Friend
+---
 
 Cats have a reputation for being enigmatic creatures, often leaving
 their human companions puzzled by their behavior. From their graceful
