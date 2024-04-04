@@ -18,7 +18,7 @@ don\'t need to break the bank to keep your kitty entertained. In this
 blog post, we\'ll explore some creative and budget-friendly DIY cat
 enrichment ideas to keep your furry friend stimulated and engaged.
 
-\### 1. Homemade Puzzle Feeders
+\# 1. Homemade Puzzle Feeders
 
 Puzzle feeders are an excellent way to encourage your cat\'s natural
 hunting instincts and provide mental stimulation during mealtime. You
@@ -28,7 +28,7 @@ cut holes or slots in the containers and fill them with your cat\'s
 kibble or treats. As your cat interacts with the puzzle feeder, they\'ll
 be rewarded with tasty rewards, keeping them entertained and engaged.
 
-\### 2. DIY Catnip Toys
+\# 2. DIY Catnip Toys
 
 Catnip is a natural herb that can induce a euphoric response in many
 cats, making it an excellent tool for enrichment. You can make your own
@@ -38,7 +38,7 @@ scratching posts to entice your cat to play. Just be sure to use catnip
 sparingly, as some cats may become overstimulated or lose interest with
 excessive exposure.
 
-\### 3. Interactive Play Stations
+\# 3. Interactive Play Stations
 
 Create a dedicated play area for your cat by repurposing household items
 into interactive play stations. For example, you can attach toys or
@@ -48,7 +48,7 @@ using cardboard boxes or PVC pipes for your cat to explore and hide in.
 Get creative and experiment with different layouts and configurations to
 keep your cat engaged and entertained.
 
-\### 4. DIY Scratching Posts
+\# 4. DIY Scratching Posts
 
 Scratching is a natural behavior for cats and helps them maintain
 healthy claws and stretch their muscles. Instead of purchasing expensive
@@ -59,7 +59,7 @@ area where your cat likes to scratch. You can also incorporate vertical
 and horizontal scratching surfaces to provide variety and cater to your
 cat\'s preferences.
 
-\### 5. Sensory Garden
+\# 5. Sensory Garden
 
 Create a sensory garden for your cat by growing cat-safe plants indoors
 or in an outdoor enclosure. Cats enjoy exploring different textures and
@@ -69,7 +69,7 @@ lavender, which are safe for cats and can provide sensory enrichment. Be
 sure to research each plant before introducing it to your cat to ensure
 it\'s non-toxic and suitable for their environment.
 
-\### Conclusion: DIY Delights for Your Feline Friend
+\# Conclusion: DIY Delights for Your Feline Friend
 
 Keeping your cat stimulated and engaged doesn\'t have to be expensive or
 complicated. With a little creativity and some household items, you can

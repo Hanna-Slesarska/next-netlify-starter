@@ -3,21 +3,22 @@ import Head from 'next/head'
 import fs from 'fs'
 import Link from 'next/link';
 
+
 const getPostMetadata = () => {
+
   const folder = 'content/';
   const files = fs.readdirSync(folder);
   const markdownPost = files.filter((file) => file.endsWith('.md'));
   const slugs = markdownPost.map((file)=> file.replace('.md', ''));
-  console.log(slugs)
   return slugs;
   
 }
 
 export default function Home() {
-  //let { title, cats } = attributes
+ 
   const postsData = getPostMetadata();
   const postsPreviews = postsData.map((slug) => (
-    <Link href={`/content/${slug}`}>
+    <Link href={`/content/${slug}`} key={slug}>
     <div>
       <h2>{slug}</h2>
     </div>
@@ -30,9 +31,9 @@ export default function Home() {
           <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
         </Head>
         <div>{postsPreviews}</div>
-      
+       
         {/* <article>
-          <h1>{title}</h1>
+         <h1>{title}</h1>
             <HomeContent />
           <ul>
             {cats.map((cat, k) => (
