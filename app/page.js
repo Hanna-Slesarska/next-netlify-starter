@@ -2,25 +2,36 @@ import Head from 'next/head'
 //import { attributes, react as HomeContent } from '../content/home.md'
 import fs from 'fs'
 import Link from 'next/link';
+import matter from "gray-matter"
 
 
-const getPostMetadata = () => {
+const getPostMetadata = ()  => {
 
   const folder = 'blog/';
   const files = fs.readdirSync(folder);
-  const markdownPost = files.filter((file) => file.endsWith('.md'));
-  const slugs = markdownPost.map((file)=> file.replace('.md', ''));
-  return slugs;
+  const markdownPosts = files.filter((file) => file.endsWith('.md'));
   
+  // Get gray-matter data from each file.
+  const posts = markdownPosts.map((fileName) => {
+    const fileContents = fs.readFileSync(`blog/${fileName}`, "utf8");
+    const matterResult = matter(fileContents);
+    return {
+      title: matterResult.data.title,
+      date: matterResult.data.date,
+      thumbnail: matterResult.data.thumbnail,
+      slug: fileName.replace(".md", ""),
+    };
+  });
+  return posts;
 }
 
 export default function Home() {
  
   const postsData = getPostMetadata();
-  const postsPreviews = postsData.map((slug) => (
-    <Link href={`/blog/${slug}`} key={slug}>
+  const postsPreviews = postsData.map((post) => (
+    <Link href={`/blog/${post.slug}`} key={post}>
     <div>
-      <h2>{slug}</h2>
+      <h2>{post.title}</h2>
     </div>
     </Link>
     
