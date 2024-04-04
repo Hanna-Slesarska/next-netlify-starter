@@ -18,7 +18,7 @@ export default function Home() {
  
   const postsData = getPostMetadata();
   const postsPreviews = postsData.map((slug) => (
-    <Link href={`/content/${slug}`} key={slug}>
+    <Link href={`/blog/${slug}`} key={slug}>
     <div>
       <h2>{slug}</h2>
     </div>
