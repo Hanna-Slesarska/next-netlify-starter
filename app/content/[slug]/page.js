@@ -1,11 +1,10 @@
 import fs from "fs"
-import Markdown from 'markdown-to-jsx'
+import Markdown from "markdown-to-jsx"
 
 const getPostContent = (slug) => {
   const folder = "content/"
   const file = `${folder}${slug}.md`
   const content = fs.readFileSync(file, "utf8")
-
   return content
 }
 const PostPage = (props) => {
