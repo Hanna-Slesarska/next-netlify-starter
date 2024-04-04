@@ -6,7 +6,7 @@ import Link from 'next/link';
 
 const getPostMetadata = () => {
 
-  const folder = 'content/';
+  const folder = 'blog/';
   const files = fs.readdirSync(folder);
   const markdownPost = files.filter((file) => file.endsWith('.md'));
   const slugs = markdownPost.map((file)=> file.replace('.md', ''));
