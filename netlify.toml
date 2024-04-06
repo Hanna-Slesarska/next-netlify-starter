@@ -2,4 +2,6 @@
   command = "npm run build"
   publish = ".next"
 
-
+[[redirects]]
+  from = "/"
+  to = "/[slug]"
