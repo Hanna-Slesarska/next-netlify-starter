@@ -23,7 +23,7 @@ const PostPage = (props: any) => {
   const post = getPostContent(slug);
   return (
     <>
-      <div className="my-12 text-center">
+      <div className="my-24 text-center">
         <h1 className="text-2xl text-slate-600 ">{post.data.title}</h1>
         <p className="text-slate-400 mt-2">{post.data.date}</p>
       </div>
