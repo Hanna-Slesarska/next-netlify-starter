@@ -2,7 +2,7 @@
 layout: blog
 title: DIY Cat Enrichment
 date: 2024-03-17T19:31:20.591Z
-thumbnail: https://images.unsplash.com/photo-1708979346185-5f3235e1becd?w=800&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MzZ8fGNhdHMlMjBwbGF5JTIwd2l0aCUyMHRveXxlbnwwfHwwfHx8MA%3D%3D
+thumbnail:
 rating: 5
 post:
   - description: Creative Ways to Keep Your Kitty Stimulated

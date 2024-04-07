@@ -2,7 +2,7 @@
 layout: blog
 title: Cat Health 101
 date: 2024-03-17T19:31:20.591Z
-thumbnail: https://images.unsplash.com/photo-1592194996308-7b43878e84a6?w=800&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8Y2F0c3xlbnwwfHwwfHx8MA%3D%3D
+thumbnail: /images/2.jpg
 rating: 5
 post:
   - description: Tips for Keeping Your Feline Friend Happy and Healthy

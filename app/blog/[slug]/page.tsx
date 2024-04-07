@@ -13,7 +13,6 @@ const PostPage = (props) => {
   return (
     <div>
       <h1>This is post: {slug}</h1>
-      <div>{content.thumbnail}</div>
       <Markdown>{content}</Markdown>
     </div>
   )
