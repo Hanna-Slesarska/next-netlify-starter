@@ -1,5 +1,5 @@
 backend:
-  name: github
+  name: git-gateway
   repo: Hanna-Slesarska/next-netlify-starter
   branch: main # Branch to update (optional; defaults to master)
 media_folder: public/img
