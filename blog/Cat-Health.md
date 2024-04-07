@@ -1,11 +1,10 @@
 ---
-layout: blog
 title: Cat Health 101
+subtitle: Tips for Keeping Your Feline Friend Happy and Healthy
 date: 2024-03-17T19:31:20.591Z
 thumbnail: /images/2.jpg
 rating: 5
-post:
-  - description: Tips for Keeping Your Feline Friend Happy and Healthy
+
 ---
 Cats are beloved members of countless households around the world,
 providing companionship, comfort, and endless entertainment to their
