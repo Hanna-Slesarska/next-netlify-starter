@@ -1,7 +1,7 @@
-import Image from "next/image";
 import Link from "next/link";
+import { PostMetadata } from "./PostMetadata";
 
-const PostPreview = (props: any) => {
+const PostPreview = (props: PostMetadata) => {
   return (
     <div
       className="border border-slate-300 p-4 rounded-md shadow-sm
@@ -9,11 +9,10 @@ const PostPreview = (props: any) => {
     >
       <p className="text-sm text-slate-400">{props.date}</p>
 
-      <Link href={`/blog/${props.slug}`}>
+      <Link href={`/posts/${props.slug}`}>
         <h2 className=" text-violet-600 hover:underline mb-4">{props.title}</h2>
       </Link>
       <p className="text-slate-700">{props.subtitle}</p>
-      <Image src={props.image} alt="kittie" />
     </div>
   );
 };
